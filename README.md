@@ -1,4 +1,4 @@
-# Aglo Trader
+# Algo Trader
 
 ## Intro
 
